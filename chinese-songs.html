@@ -1,0 +1,73 @@
+<head>
+    <script
+  src="https://code.jquery.com/jquery-3.2.1.js"
+  integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE="
+  crossorigin="anonymous"></script>
+<style>
+.wstyle {
+    font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro",Osaka, "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+    border-width:0px;
+    border-bottom-width:2px;
+    border-bottom-color: black;
+    margin:0.15em;
+    width: 4.5em;
+    font-size:1.2em;
+    text-align: center;
+    
+}
+
+    #failmessage {
+        text-align: center;
+        font-size:1.5em;
+    }
+    #question {
+        font-size: 1.2em;
+        margin-top: 100px;
+        text-align:center;
+    }
+    #gameplay {
+        text-align:center;
+    }
+    .wstyle:focus {
+      outline-width: 0;
+      color: transparent;
+        text-shadow: 0 0 0 black;
+        border-bottom-color:red;
+    }
+    .punc {
+        width:2em;
+        font-size:2em;
+    }
+    
+h1 {
+    color: maroon;
+    margin-left: 40px;
+} 
+    #timer{
+        margin-top:50px;
+        text-align:center;
+        font-size:2em;
+    }
+    #timerBar{
+        width:100px;
+        background: black;
+        height:20px;
+        margin: 0 auto;
+        margin-top:30px;
+        
+    }
+</style>
+</head>
+<body>
+<!--    <p id="english">People always ask me if I know Tyler Durton</p>-->
+ <p id="question">Everything will once again go back to its original state</p>
+    
+    <div id="gameplay"></div>
+<!--    <div id="timer"></div>-->
+    <div id="timerBar"></div>
+
+    <script src="chinese-songs.js"></script>
+
+    <div id="failmessage"></div>    
+
+</body>

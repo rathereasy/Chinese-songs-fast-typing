@@ -1,0 +1,75 @@
+<head>
+    <script
+  src="https://code.jquery.com/jquery-3.2.1.js"
+  integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE="
+  crossorigin="anonymous"></script>
+<style>
+.wstyle {
+    font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro",Osaka, "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+    border-width:0px;
+    border-bottom-width:2px;
+    border-bottom-color: black;
+    margin:0.15em;
+    width: 1em;
+    font-size:2em;
+    
+}
+
+    .wstyle:focus {
+      outline-width: 0;
+      color: transparent;
+        text-shadow: 0 0 0 black;
+        border-bottom-color:red;
+    }
+
+
+h1 {
+    color: maroon;
+    margin-left: 40px;
+} 
+</style>
+</head>
+<body>
+
+    
+    
+<script src="wanakana.min.js"></script>
+<script>
+    
+    
+    var elements = [];
+    
+    function createBox() {
+        var b = $('<input class="wstyle" onkeyup="myFunction()" type="text" autocapitalize="none"/>'  );
+        $('body').append(b);
+        elements.push(b);
+    }
+    
+    
+    for(var i = 0; i < 10; i++){
+        createBox();
+    }
+       
+    elements[0].focus();
+    function myFunction() {
+        for(var i = elements.length - 2; i >= 0; i--) {
+        if(wanakana.isKana(elements[i].val())) {
+            console.log(i);
+            elements[i+1].focus();
+            return;
+         } 
+        }
+    }
+    for(var i = 0; i < elements.length; i++) {
+        wanakana.bind(elements[i].get(0));
+    }
+    
+//  const textInput = document.querySelector('#wanakana-input0');
+//  const textInput2 = document.querySelector('#wanakana-input1');
+//      const textInput3 = document.querySelector('#wanakana-input2');
+//  wanakana.bind(textInput); // uses IMEMode toKana() as default
+//wanakana.bind(textInput2); // uses IMEMode toKana() as default
+//    wanakana.bind(textInput3); // uses IMEMode toKana() as default
+
+</script>
+</body>

@@ -1,0 +1,146 @@
+The purpose of the platform is not to learn every word in the script. Rather, it is to: learn to understand the drama with the least amount of effort possible.
+
+Principles:
+  - Words that cannot be easily separated should not be separated. They should be ignored or left in a combined form
+  - Complicated grammar should not be explained. Instead, they should be ignored or left in a combined form. Examples:
+    - Particles (ha, ga, ni, etc..) (left combined or ignored)
+    - Conjugation (eba, atta, etc..) (left combined)
+    - verb combinations (left combined)
+    - etc...
+  - Users will be able to ask and answer questions about specific sentences through the platform. This is a form of higher level learning than a game can provide.
+  - Simple and often repeated words should not be repeatedly learned. Complicated and infrequent words should be relearned.
+
+Reasons:
+  - It is hard to understand complicated concepts with a simple game
+  
+
+特別
+じゃない
+特別じゃない
+-----
+少女 
+記録
+病気
+
+
+特別
+じゃない
+特別じゃない
+
+ただ特別な病気 - just a special disease (10)
+~に選ばれてしまった - was chosen by ~  (8)
+
+
+ただ特別な病気に選ばれてしまった 少女の記録          
+
+------
+人間
+脳
+億
+
+細胞
+神経
+約
+
+約１４０億
+人間の脳には - in the human brain
+約１４０億の神経細胞 - about 14 billion nerve cells
+人間の脳には約１４０億の神経細胞
+
+------
+支持する - shijisuru (support)
+~があります - there are ~
+
+その１０倍もの神経細胞支持する細胞があります
+
+
+-----
+それらの神経細胞は中枢神経と末梢神経に分けられ
+
+それらの~ - those ~
+中枢 - chuusuu (central)
+末梢 - matsushou (peripheral)
+~と~ - ~ and ~
+~に分けられ - ~ is split
+それらの神経細胞は中枢神経と末梢神経に分けられ
+
+
+
+------
+そのうち~ - of these ~
+大脳 - cerebrum
+間脳 - the brain
+小脳 - cerebellum
+脳幹 - brainstem
+脊髄 - spinal cord
+~に分けています - divided into
+
+そのうち中枢神経は　大脳、間脳、小脳、脳幹、脊髄に分けています
+
+-----
+その中
+体
+自由
+スムーズ
+動かす
+働き
+動かす働き
+
+その中で体を自由にスムーズに動かす働きをしているのが
+
+-----
+お母さん
+お嬢さん
+~の~  
+画像
+~です - is ~
+
+お母さん、これがお嬢さんの脳の画像ですが
+
+-----
+こちらの ~ - this ~
+正常 - normal
+比べて下さい - please compare
+
+こちらの正常の脳の画像を比べて下さい
+
+-----
+萎縮 - atrophy (ishuku)
+小脳 - cerebellum
+~ と思います - I think that ~
+
+小脳が萎縮していると思います
+
+-----
+お嬢さん - daughter
+病気
+何らかの理由 - for some reason
+
+お嬢さんの病気は何らかの理由で小脳が萎縮し
+
+----
+神経細胞 - shinkeisaibou (nerve cells)
+
+
+そこに存在する様々な神経細胞が次第に失われているものです
+
+
+----
+つまり - in short
+壊れていく - break down
+~ と理解してください - please understand that ~
+
+つまり　壊れていくと理解してください
+
+----
+
+壊れる？
+
+-----
+自覚 - jikaku - aware
+症状 - shoujou - symptom
+自覚症状 - perceivable symptoms
+最初 - at first
+ほとんど - mostly
+
+最初はほとんど自覚症状はありませんが
